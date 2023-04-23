@@ -33,8 +33,8 @@ Esta é uma solução para o [Desafio do componente de resumo da ordem de estat�
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Stats preview card component | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-componente-cGv3-tht24)
-- Live Site URL: [NFT Previer Card Component](https://fabriciomaxwell.github.io/nft-preview-card-component-main/)
+- Solution URL: [NFT Preview Card component | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-componente-cGv3-tht24)
+- Live Site URL: [NFT Preview Card Component](https://fabriciomaxwell.github.io/nft-preview-card-component-main/)
 
 <br>
 
